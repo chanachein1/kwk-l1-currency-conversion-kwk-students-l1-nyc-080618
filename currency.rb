@@ -1,2 +1,3 @@
-def used_to_eur(1)
- puts "#" 
+def used_to_eur[]
+ puts "#{}" 
+end 
