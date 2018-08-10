@@ -1,1 +1,2 @@
-# Write your cod here
+def used_to_eur
+  
